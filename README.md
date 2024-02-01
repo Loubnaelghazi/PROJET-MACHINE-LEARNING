@@ -27,5 +27,5 @@ The implemented algorithms include:
 The project is a collaborative effort with each pair including [https://github.com/Zaoui-Hanane]. It utilizes Streamlit in Python and various machine learning libraries.
 
 ## Project Report
-The report of our realisation [Report] (https://github.com/Loubnaelghazi/PROJET-MACHINE-LEARNING/blob/master/RAPPORT%20-%20PROJET%20-%20Python-EL%20GHAZI-ZAOUI.pdf)
+The report of our realisation [Report](https://github.com/Loubnaelghazi/PROJET-MACHINE-LEARNING/blob/master/RAPPORT%20-%20PROJET%20-%20Python-EL%20GHAZI-ZAOUI.pdf)
 
