@@ -7,6 +7,9 @@
 ## Description
 
 The project aims to provide students and data scientists with practical experience in the field of programming and machine learning by developing a versatile computer application using the Python programming language.
+
+Check out the project in action on [LinkedIn]()
+
 ## Machine Learning Algorithms
 
 The implemented algorithms include:
