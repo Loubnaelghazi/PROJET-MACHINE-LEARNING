@@ -9,7 +9,7 @@
 
 The project aims to provide students and data scientists with practical experience in the field of programming and machine learning by developing a versatile computer application using the Python programming language.
 
-Check out the project in action on [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7158837780230393857/)
+Check out the project in action on [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7158852719250710529/)
 
 ## Machine Learning Algorithms
 
