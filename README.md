@@ -3,6 +3,7 @@
 1. [Description](#description)
 2. [Machine Learning Algorithms](#machine-learning-algorithms)
 3. [Collaboration Details](#collaboration-details)
+4. [Project Report](#project-report) 
 
 ## Description
 
@@ -25,5 +26,6 @@ The implemented algorithms include:
 
 The project is a collaborative effort with each pair including [https://github.com/Zaoui-Hanane]. It utilizes Streamlit in Python and various machine learning libraries.
 
-
+## Project Report
+The report of our realisation [Report] ()
 
