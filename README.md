@@ -20,7 +20,7 @@ The implemented algorithms include:
   Using Streamlit in Python and various machine learning libraries.
 ## Collaboration Details
 
-The project is a collaborative effort with each pair including . It utilizes Streamlit in Python and various machine learning libraries.
+The project is a collaborative effort with each pair including [https://github.com/Zaoui-Hanane]. It utilizes Streamlit in Python and various machine learning libraries.
 
 
 
